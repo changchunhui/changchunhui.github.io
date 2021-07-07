@@ -2,5 +2,5 @@
 
 Upcoming projects, coming soon:
 * HCM Diversity Dashboard - In progress
-* ML project - TBD
-* Creative coding project - TBD
+* ML powered web tool - TBD
+* Creative coding demo - TBD
