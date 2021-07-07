@@ -1,7 +1,6 @@
 # changchunhui.github.io
 
-Upcoming projects:
-
-HCM Diversity Dashboard
-ML Analysis
-Creative Coding Demo
+Upcoming projects, coming soon:
+* HCM Diversity Dashboard
+* ML Analysis
+* Creative Coding Demo
