@@ -2,5 +2,5 @@
 
 Upcoming projects:
 * HCM Diversity Dashboard - In progress
-* NLP and sentiment analysis - TBD
+* Predicting employee turnover with machine learning - In progress
 * Creative coding demo - TBD
