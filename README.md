@@ -1,5 +1,5 @@
 # changchunhui.github.io
 
 Upcoming projects:
-* HCM dashboard web app - In progress
+* [HCM diversity dashboard web app](https://github.com/changchunhui/hcmdash)
 * Predicting employee turnover with machine learning - In progress
