@@ -1,8 +1,7 @@
 # changchunhui.github.io
 
-Links to repos<br><br>
-* [HCM diversity dashboard](https://github.com/changchunhui/hcmdash)
-
+Projects: ** links to repos
+* [HCM diversity dashboard](https://github.com/changchunhui/hcmdash)<br><br>
 
 Upcoming projects:
 * Predicting employee turnover with machine learning - In progress
