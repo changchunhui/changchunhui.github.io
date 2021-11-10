@@ -1,6 +1,6 @@
 # changchunhui.github.io
 
-Data Analyst / Analytics Specialist
+**Data Analyst / Analytics Specialist**
 <br>Skills: Python - Pandas, Numpy, Matplotlib, Seaborn, Plotly, Dash, Scikit-Learn, SQL, Excel, Tabealu, Power BI
 
 Projects:
