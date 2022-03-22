@@ -2,7 +2,7 @@
 
 Data Analyst / Analytics Specialist
 
-Skills: Python - Pandas, Numpy, Matplotlib, Seaborn, Plotly, Dash, Scikit-Learn, SQL, Excel, Tabealu, Power BI
+Skills: Python - Pandas, Numpy, Matplotlib, Seaborn, Plotly, Dash, Scikit-Learn, SQL, Excel, Power BI, Tableau
 
 Projects:
 * [HCM diversity dashboard web app - using Plotly and Dash](https://github.com/changchunhui/hcmdash)
