@@ -2,7 +2,7 @@
 
 BI Developer & Data Analyst - Python & Power BI
 
-Skills: Pandas, Numpy, Matplotlib, Seaborn, Openpyxl, Xlwings, PyAutoGUI, Selenium, BeautifulSoup
+Python: Pandas, Numpy, Matplotlib, Seaborn, Openpyxl, Xlwings, PyAutoGUI, Selenium, BeautifulSoup
 
 Projects:
 * [HCM diversity dashboard web app - using Plotly and Dash](https://github.com/changchunhui/hcmdash)
